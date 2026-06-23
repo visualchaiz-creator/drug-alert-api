@@ -17,4 +17,4 @@ COPY . .
 EXPOSE 3010
 
 # 7. คำสั่งสำหรับรันแอปพลิเคชัน
-CMD ["node", "app.js"]
+CMD ["node", "server.js"]
